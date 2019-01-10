@@ -14,4 +14,4 @@
 //= require activestorage
 //= require turbolinks
 //= require_tree .
-//= require materialize-sass
+//= require_materialize-sass

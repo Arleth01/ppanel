@@ -1,4 +1,0 @@
-class CohortController < ApplicationController
-end
-
-  
